@@ -1,4 +1,4 @@
-baseURL = "https://mooremachine.github.io/smallblog/"
+baseURL = "/smallblog"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "hello-friend"
