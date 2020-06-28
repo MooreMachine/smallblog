@@ -1,4 +1,4 @@
-baseURL = "smallblog"
+baseURL = "smallblog/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "hello-friend"
