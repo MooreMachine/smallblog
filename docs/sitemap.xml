@@ -3,11 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://mooremachine.github.io/smallblog/categories/</loc>
+    <loc>https://mooremachine.github.io/smallblog/posts/my-first-post/</loc>
+    <lastmod>2020-06-28T16:37:15+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://mooremachine.github.io/smallblog/</loc>
+    <lastmod>2020-06-28T16:37:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mooremachine.github.io/smallblog/posts/</loc>
+    <lastmod>2020-06-28T16:37:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mooremachine.github.io/smallblog/categories/</loc>
   </url>
   
   <url>
